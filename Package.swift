@@ -25,4 +25,4 @@ let package = Package(
             name: "UIXCurrencyTextFieldTests",
             dependencies: ["UIXCurrencyTextField"]),
     ]
-)
+) 

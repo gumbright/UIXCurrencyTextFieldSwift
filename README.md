@@ -1,3 +1,3 @@
 # UIXCurrencyTextField
 
-A description of this package.
+ATM-like currency entry TextField
